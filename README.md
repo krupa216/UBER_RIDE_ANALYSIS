@@ -11,18 +11,29 @@ The project uses the Uber Trips Dataset 50K, which contains information about tr
 **Key Features**
 
 City
+
 Pickup and Drop Location
+
 Distance (km)
+
 Fare Amount
+
 Payment Method
+
 Trip Status
+
 Pickup Time and Drop Time
+
 
 **Tools and Technologies**
 
 Python (Google Colab) for data analysis
+
 Pandas, NumPy for data manipulation
+
 Matplotlib, Seaborn for data visualization
+
+
 Power BI for interactive dashboard creation
 
 **Analysis Performed**
@@ -46,6 +57,7 @@ Most rides are short-distance trips.
 Digital payment methods are commonly used.
 
 Trip demand peaks during commuting hours.
+
 
 
 <img width="1196" height="680" alt="image" src="https://github.com/user-attachments/assets/ca47dca8-3f3f-483a-92fb-628a3ceade66" />
